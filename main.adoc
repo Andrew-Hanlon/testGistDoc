@@ -1,0 +1,33 @@
+
+image::sunset.jpg[]
+
+[source,ruby]
+.app.rb
+----
+require 'sinatra'
+get '/hi' do
+ "Hello World!"
+end
+----
+
+[stem]
+++++
+sqrt(4) = 2
+++++
+
+
+Water (stem:[H_2O]) is a critical component.
+
+
+latexmath:[C = \alpha + \beta Y^{\gamma} + \epsilon]
+
+kbd:[Ctrl+Alt+Delete]
+
+
+btn:[Save]
+
+menu:File[New[Folder[Private folder...]]]
+
+image::http://yuml.me/c9ce39b0.png[]
+
+
