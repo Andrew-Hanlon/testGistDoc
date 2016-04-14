@@ -23,7 +23,7 @@ kbd:[Ctrl+Alt+Delete]
 
 btn:[Save]
 
-menu:File[New > Folder > Private]
+menu:File[New][Folder]
 
 image::http://yuml.me/c9ce39b0.png[]
 
