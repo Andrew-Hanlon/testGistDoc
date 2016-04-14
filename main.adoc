@@ -10,16 +10,13 @@ get '/hi' do
 end
 ----
 
-[stem]
-++++
-sqrt(4) = 2
-++++
+$sqrt(4) = 2$
 
 
 Water ($H_2O$) is a critical component.
 
 
-$$C = \alpha + \beta Y^{\gamma} + \epsilon$$
+$C = \alpha + \beta Y^{\gamma} + \epsilon$
 
 kbd:[Ctrl+Alt+Delete]
 
